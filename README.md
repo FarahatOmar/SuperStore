@@ -23,7 +23,7 @@ It demonstrates the workflow of a data analyst — from basic KPI summaries to a
 
 ## 🧩 Dataset
 
-- **Source:** [Superstore Dataset - Kaggle](https://www.kaggle.com/datasets/tsarina/superstore)
+- **Source:** [Superstore Dataset - Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - **Size:** ~10,000 records
 - **Columns:** Order Date, Sales, Profit, Discount, Region, Category, Ship Mode, etc.
 
@@ -40,13 +40,10 @@ It demonstrates the workflow of a data analyst — from basic KPI summaries to a
 
 ## 🖼️ Visual Insights
 
-| Insight                             | Visualization        |
-| :---------------------------------- | :------------------- |
-| Regional profit margin              | Bar chart            |
-| Category & Sub-category performance | Horizontal bar chart |
-| Discount vs Profit                  | Scatter plot         |
-| Shipping mode comparison            | Bar chart            |
-| Monthly sales & profit              | Line chart           |
+![2](https://github.com/user-attachments/assets/21717cf5-2fc2-49a1-a999-0c2f79452ea8)
+![4](https://github.com/user-attachments/assets/c9f99c16-f7c2-414a-8903-e63c79d07035)
+![3](https://github.com/user-attachments/assets/a5e587da-8cc3-4463-bc5c-03d992ffeede)
+![1](https://github.com/user-attachments/assets/34fa44fb-6036-4d49-931f-3aeef1844173)
 
 ---
 
